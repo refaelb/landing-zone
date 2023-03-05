@@ -1,0 +1,13 @@
+# instance_name  = "refael"
+# securety_group = "infinit"
+# key_name       = "infinit"
+# ami            = "ami-2757f631"
+# instance_type  = "t2.micro"
+
+# cluster_name = "eks-infi"
+# node_group_name = "ng-infi"
+# node_role_name = "nr-infi"
+# sec_group_node = "sgn-infi"
+# sec_grop_eks = "sge-infi"
+# vpc_name = "infi"
+# region  = "us-east-1"
